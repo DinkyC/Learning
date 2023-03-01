@@ -1,3 +1,5 @@
+
+
 import math
 
 def standard_dev(lst_2) -> None:
@@ -23,3 +25,5 @@ def samplevar(dev):
 def sv_square(sv, lst_2):
     sqr = math.sqrt(sv)
     return sqr
+
+
