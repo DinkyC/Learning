@@ -7,4 +7,4 @@
 > I'm interested primarily in Python for business application, such as finacial & business modeling, so I anticipate most of the code in this repo 
 > will concern that. 
 
-     ##### Thank You In Advance #####
+**Thank You In Advance**
