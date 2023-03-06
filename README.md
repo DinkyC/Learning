@@ -7,11 +7,11 @@
 > 
 > At the heart of it, I believe that Github is a great learning opportunity.
 > 
-> Please feel free submit issues or pull requests or whatever it is you wierdos do here on Github. 
-> 
-> I want to get inside your little coder mind. 
+> Please feel free submit issues or pull requests or whatever it is 
+> you wierdos do here on Github. I want to get inside your little coder mind. 
 >
-> I'm interested primarily in Python for business application, such as finacial & business modeling, so I anticipate most of the code in this repo 
+> I'm interested primarily in Python for business application,
+> such as finacial & business modeling, so I anticipate most of the code in this repo 
 > will concern that. 
 
 **Thank You In Advance**
