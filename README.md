@@ -7,7 +7,7 @@
 > 
 > At the heart of it, I believe that Github is a great learning opportunity.
 > 
-> Please feel free submit issues or pull requests or whatever it is 
+> Please feel free to submit issues or pull requests or whatever it is 
 > you wierdos do here on Github. 
 > 
 > I want to get inside your little coder mind. 
